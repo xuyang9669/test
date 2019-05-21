@@ -1,2 +1,2 @@
 print('rua')
-print('ruarua')
+print('ruaruarua')
